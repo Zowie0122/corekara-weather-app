@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.inputBox {
+  margin: 20px;
+}
+
+.card {
+  display: inline-block;
+  margin: 50px;
+  text-align: center;
+}
+
+.mapDogContainer {
+  display: flex;
+  flex-direction: row;
+}
+.card:hover {
+  transform: scale(1.1);
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.6);
+}
+
+.error {
+  color: red;
+}
+
+.dogPhoto {
+  width: 500px;
+  margin-left: 50px;
+}
