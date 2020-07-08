@@ -1,8 +1,8 @@
 # Intro ?
 
-🌤 An weather dashboard based on the post-code input.
-📍 It will show 3 days weather and mark the location on the map.
-🐶 It will also show you a lovely dog to make your day.
+\🌤 An weather dashboard based on the post-code input.
+\📍 It will show 3 days weather and mark the location on the map.
+\🐶 It will also show you a lovely dog to make your day.
 
 <p align="center">
   <img src="./image.png" width="750">
@@ -16,7 +16,7 @@
 https://apis.postcode-jp.com/api(key1)
 http://api.worldweatheronline.com (key2)
 
-and paste below in your config.json
+paste below in your config.json
 {
 "POST_CODE_KEY": "your key1",
 "WEATHER_KEY": "your key2"
